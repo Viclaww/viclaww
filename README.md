@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Viclaww&theme=dark&background=000000)](https://git.io/streak-stats)
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Viclaww)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Viclaww&show_icons=true&theme=radical&count_private=true" alt="Viclaww" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viclaww&layout=compact&theme=radical" alt="Dayveed021" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Viclaww&show_icons=true&theme=radical&count_private=true" alt="Viclaww" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viclaww&layout=compact&theme=radical&count_private=true" alt="Dayveed021" height="165">
 </p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=Viclaww.Viclaww">
 </details>
