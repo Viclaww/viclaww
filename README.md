@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p align="right">
-  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="480" height="480" />
-</p>
+<div style="position: relative; width: 100%; height: 480px;">
+  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" style="position: absolute; right: 0; top: 0;" width="480" height="480" />
+</div>
 
 ### 🚀 Skills & Technologies
 
