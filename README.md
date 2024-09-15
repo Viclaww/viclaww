@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>
+![Giphy](https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif)
 
 
 ### 🚀 Skills & Technologies
@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 ### 🌟 Projects
 
