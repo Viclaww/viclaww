@@ -5,10 +5,13 @@
 
 
 
-<div style="position: relative; display:flex; width: 100%; height: 480px;">
-  <p>Driven by a passion for web development and a dedication to continuous learning, I've accumulated two years of hands-on experience through volunteering at startups and undertaking freelance contracts. During this time, I've honed my skills and expanded my expertise, successfully delivering projects for clients while staying abreast of new technologies and best practices. With a commitment to professional growth and a proven track record of adaptability, I'm eager to contribute my skills to innovative projects in the ever-evolving field of web development.</p>
-  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" style="position: absolute; right: 0; top: 0;" width="480" height="480" />
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%; height: 480px;">
+  <p style="flex: 1; padding-right: 20px;">
+    Driven by a passion for web development and a dedication to continuous learning, I've accumulated two years of hands-on experience through volunteering at startups and undertaking freelance contracts. During this time, I've honed my skills and expanded my expertise, successfully delivering projects for clients while staying abreast of new technologies and best practices. With a commitment to professional growth and a proven track record of adaptability, I'm eager to contribute my skills to innovative projects in the ever-evolving field of web development.
+  </p>
+  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="480" height="480" />
 </div>
+
 
 ### 🚀 Skills & Technologies
 
