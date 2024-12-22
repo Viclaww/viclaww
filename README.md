@@ -22,7 +22,7 @@
   ![Remix](https://img.shields.io/badge/-Remix-000000?style=for-the-badge&logo=remix)
   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-  ![Three.js](https://img.shields.io/badge/Three.js-v0.157.0-orange?logo=three.js&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js?logo=three.js&logoColor=white)
   
 - **Backend**:  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
