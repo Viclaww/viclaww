@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Victor Lawrence!
-
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32049%26minutes%3D0%26color%3D222%26style%3Dsocial)](https://codetime.dev)
 
 
 
